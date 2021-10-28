@@ -1,0 +1,9 @@
+courses caltalog
+
+- id
+- coursename (varchar)
+- category (varchar)
+- status (enum: Gratis, Berbayar)
+- deskripsi (text)
+- create_at
+- updated_at
